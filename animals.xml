@@ -1,0 +1,26 @@
+<Animals>
+  <Animal>
+    <Type>Cow</Type>
+    <Country />
+    <HideFromOtherAnimals>false</HideFromOtherAnimals>
+    <FavoriteFood>Plants</FavoriteFood>
+    <Classification>Herbivores</Classification>
+    <Comment />
+  </Animal>
+  <Animal>
+    <Type>Lion</Type>
+    <Country />
+    <HideFromOtherAnimals>false</HideFromOtherAnimals>
+    <FavoriteFood>Meat</FavoriteFood>
+    <Classification>Carnivores</Classification>
+    <Comment />
+  </Animal>
+  <Animal>
+    <Type>Pig</Type>
+    <Country />
+    <HideFromOtherAnimals>false</HideFromOtherAnimals>
+    <FavoriteFood>Everything</FavoriteFood>
+    <Classification>Omnivores</Classification>
+    <Comment />
+  </Animal>
+</Animals>
